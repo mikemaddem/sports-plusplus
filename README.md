@@ -15,7 +15,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="http://mikemadden.me"><img src="https://avatars0.githubusercontent.com/u/19417674?v=4" width="100px;" alt="Mike M."/><br /><sub><b>Mike M.</b></sub></a><br /><a href="https://github.com/mikemaddem/sports-plusplus/commits?author=mikemaddem" title="Code">💻</a></td>
+    <td align="center"><a href="http://mikemadden.me"><img src="https://avatars0.githubusercontent.com/u/19417674?v=4" width="100px;" alt="Mike M."/><br /><sub><b>Mike M.</b></sub></a><br /><a href="https://github.com/mikemaddem/sports-plusplus/commits?author=mikemaddem" title="Code">💻</a> <a href="#projectManagement-mikemaddem" title="Project Management">📆</a> <a href="#ideas-mikemaddem" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mikemaddem/sports-plusplus/commits?author=mikemaddem" title="Documentation">📖</a> <a href="#maintenance-mikemaddem" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
